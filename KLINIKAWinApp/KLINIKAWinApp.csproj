@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52B6D440-68C3-4499-995F-274BDDA336CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KLINIKAWinApp</RootNamespace>
+    <AssemblyName>KLINIKAWinApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anamneza.cs" />
+    <Compile Include="Bolest.cs" />
+    <Compile Include="SlikaArgumenti.cs" />
+    <Compile Include="TrenutniState.cs" />
+    <Compile Include="Uloga.cs" />
+    <Compile Include="UnosSlike.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UnosSlike.Designer.cs">
+      <DependentUpon>UnosSlike.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UposleniciPregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UposleniciPregled.Designer.cs">
+      <DependentUpon>UposleniciPregled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppGlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppGlavnaForma.Designer.cs">
+      <DependentUpon>WinAppGlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPlacanje.cs" />
+    <Compile Include="Karton.cs" />
+    <Compile Include="Klinika.cs" />
+    <Compile Include="Knjizica.cs" />
+    <Compile Include="MedicinskiRadnik.cs" />
+    <Compile Include="NeMedicinskiRadnik.cs" />
+    <Compile Include="Oprema.cs" />
+    <Compile Include="Ordinacija.cs" />
+    <Compile Include="Pacijent.cs" />
+    <Compile Include="PacijentInfo.cs" />
+    <Compile Include="Pregled.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Racun.cs" />
+    <Compile Include="Terapija.cs" />
+    <Compile Include="Uposlenik.cs" />
+    <Compile Include="VanjskiSaradnik.cs" />
+    <Compile Include="WinAppBolest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppBolest.Designer.cs">
+      <DependentUpon>WinAppBolest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppGlavniMeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppGlavniMeni.Designer.cs">
+      <DependentUpon>WinAppGlavniMeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppKarton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppKarton.Designer.cs">
+      <DependentUpon>WinAppKarton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppKnjizica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppKnjizica.Designer.cs">
+      <DependentUpon>WinAppKnjizica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppOrdinacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppOrdinacija.Designer.cs">
+      <DependentUpon>WinAppOrdinacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppPacijent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppPacijent.Designer.cs">
+      <DependentUpon>WinAppPacijent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppPregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppPregled.Designer.cs">
+      <DependentUpon>WinAppPregled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppRacun.Designer.cs">
+      <DependentUpon>WinAppRacun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppTerapija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppTerapija.Designer.cs">
+      <DependentUpon>WinAppTerapija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAppUposlenik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinAppUposlenik.Designer.cs">
+      <DependentUpon>WinAppUposlenik.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UnosSlike.resx">
+      <DependentUpon>UnosSlike.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UposleniciPregled.resx">
+      <DependentUpon>UposleniciPregled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppGlavnaForma.resx">
+      <DependentUpon>WinAppGlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="WinAppBolest.resx">
+      <DependentUpon>WinAppBolest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppGlavniMeni.resx">
+      <DependentUpon>WinAppGlavniMeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppKarton.resx">
+      <DependentUpon>WinAppKarton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppKnjizica.resx">
+      <DependentUpon>WinAppKnjizica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppOrdinacija.resx">
+      <DependentUpon>WinAppOrdinacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppPacijent.resx">
+      <DependentUpon>WinAppPacijent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppPregled.resx">
+      <DependentUpon>WinAppPregled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppRacun.resx">
+      <DependentUpon>WinAppRacun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppTerapija.resx">
+      <DependentUpon>WinAppTerapija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinAppUposlenik.resx">
+      <DependentUpon>WinAppUposlenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cekaonica\Cekaonica.csproj">
+      <Project>{c592b0a6-f477-453f-b597-d15fdb1493e7}</Project>
+      <Name>Cekaonica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
