@@ -1,0 +1,5 @@
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Cekaonica\Cekaonica\bin\Release\Cekaonica.dll
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Cekaonica\Cekaonica\bin\Release\Cekaonica.pdb
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Cekaonica\Cekaonica\obj\Release\Cekaonica.csproj.CoreCompileInputs.cache
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Cekaonica\Cekaonica\obj\Release\Cekaonica.dll
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Cekaonica\Cekaonica\obj\Release\Cekaonica.pdb

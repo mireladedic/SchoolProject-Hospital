@@ -1,0 +1,5 @@
+C:\Users\Mirela\Desktop\KLINIKA\Cekaonica\Cekaonica\bin\Debug\Cekaonica.dll
+C:\Users\Mirela\Desktop\KLINIKA\Cekaonica\Cekaonica\bin\Debug\Cekaonica.pdb
+C:\Users\Mirela\Desktop\KLINIKA\Cekaonica\Cekaonica\obj\Debug\Cekaonica.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\KLINIKA\Cekaonica\Cekaonica\obj\Debug\Cekaonica.dll
+C:\Users\Mirela\Desktop\KLINIKA\Cekaonica\Cekaonica\obj\Debug\Cekaonica.pdb

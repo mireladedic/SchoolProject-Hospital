@@ -1,0 +1,57 @@
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\bin\Debug\Klinika.exe.config
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\bin\Debug\Klinika.exe
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\bin\Debug\Klinika.pdb
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\obj\Debug\Klinika.csproj.CoreCompileInputs.cache
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\obj\Debug\Klinika.exe
+c:\users\irfan\documents\visual studio 2017\Projects\Klinika\Klinika\obj\Debug\Klinika.pdb
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Klinika\Klinika\bin\Debug\Cekaonica.dll
+c:\Users\Irfan\Documents\Visual Studio 2017\Projects\Klinika\Klinika\bin\Debug\Cekaonica.pdb
+D:\Klinika - Irfan\Klinika\bin\Debug\Klinika.exe.config
+D:\Klinika - Irfan\Klinika\bin\Debug\Klinika.exe
+D:\Klinika - Irfan\Klinika\bin\Debug\Klinika.pdb
+D:\Klinika - Irfan\Klinika\bin\Debug\Cekaonica.dll
+D:\Klinika - Irfan\Klinika\bin\Debug\Cekaonica.pdb
+D:\Klinika - Irfan\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+D:\Klinika - Irfan\Klinika\obj\Debug\Klinika.csproj.CoreCompileInputs.cache
+D:\Klinika - Irfan\Klinika\obj\Debug\Klinika.exe
+D:\Klinika - Irfan\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\obj\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\bin\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\bin\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\bin\Debug\Cekaonica.pdb
+C:\Users\Mirela\Desktop\Klinika - Irfan\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\obj\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\bin\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\bin\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\KLINIKA\Klinika\bin\Debug\Cekaonica.pdb
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.exe
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.pdb
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\bin\Debug\Cekaonica.pdb
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.csproj.CoreCompileInputs.cache
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.exe
+C:\Users\Irfan\Downloads\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\bin\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\bin\Debug\Cekaonica.pdb
+C:\Users\Mirela\Desktop\KLINIKA\KLINIKA\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\obj\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\bin\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\bin\Debug\Klinika.pdb
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\bin\Debug\Cekaonica.pdb
+C:\Users\Mirela\Desktop\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\RAZVOJ PROGRAMSKIH RJESENJA\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Mirela\Desktop\RAZVOJ PROGRAMSKIH RJESENJA\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\obj\Debug\Klinika.exe
+C:\Users\Mirela\Desktop\RAZVOJ PROGRAMSKIH RJESENJA\Klinika_Mirela.DE_Final_Solution\KLINIKA\Klinika\obj\Debug\Klinika.pdb
